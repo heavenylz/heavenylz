@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning: python
 - 💞️ I’m looking to collaborate on: learning
 - 📫 How to reach me: dc heavenylz
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: me sigma
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: im silly
 
 <!---
 heavenylz/heavenylz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
