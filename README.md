@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: python
 - 💞️ I’m looking to collaborate on: learning
 - 📫 How to reach me: dc heavenylz
-- 😄 Pronouns: he/him
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: im silly
 
 <!---
