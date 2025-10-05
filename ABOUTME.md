@@ -1,9 +1,9 @@
-- 💻 Discord Bot & Web Developer | Learning & Building
+## 💻 Discord Bot & Web Developer  
 
-- ⚙️ Developing custom Discord bots (DM for projects!)
+Hi! I'm Heaven — a mid-level developer passionate about building Discord bots and clean, responsive websites.  
+Currently improving my skills in **Discord.js**, **HTML**, **CSS**, and **Node.js** while creating real-world projects.  
 
-- 🚀 Mid-level Developer | Discord.js • HTML • Node.js
+⚙️ I develop **custom Discord bots** and simple **web solutions** — affordable, reliable, and built with care.  
+🚀 Always learning. Always building.  
 
-- 🧠 Still learning, but already building cool stuff.
-
-- 💼 Reliable & affordable developer for small projects.
+💼 Open for small freelance projects — feel free to reach out!
